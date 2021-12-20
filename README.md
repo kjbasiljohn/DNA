@@ -31,3 +31,8 @@ If you would like to make changes to the SilverStripe core codebase, we have an 
  * [License](./LICENSE)
 
 
+## Database Name ##
+dna
+
+## Admin Creds ##
+admin/admin
